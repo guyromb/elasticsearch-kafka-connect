@@ -12,11 +12,11 @@ Main maintainer: [@markoverride](https://github.com/markoverride)
 npm install --save elasticsearch-kafka-connnect
 ```
 
-### database -> kafka
+### elasticsearch -> kafka
 
 In development
 
-### kafka -> database
+### kafka -> elasticsearch
 
 ```es6
 const { runSinkConnector } = require("elasticsearch-kafka-connnect");

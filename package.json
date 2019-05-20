@@ -1,7 +1,7 @@
 {
   "name": "elasticsearch-kafka-connect",
   "version": "0.0.1",
-  "description": "",
+  "description": "ElasticSearch Kafka connector",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,6 +14,30 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "OneFit Dev <devops@one.fit>",
+  "contributors": [
+    {
+      "name": "Vladimir Boldakov",
+      "email": "vladimir@one.fit"
+    },
+    {
+      "name": "Guy Rombaut",
+      "email": "guy@one.fit"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onefit/elasticsearch-kafka-connect.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "kafka",
+    "node",
+    "kafka-connect"
+  ],
+  "bugs": {
+    "url": "https://github.com/onefit/elasticsearch-kafka-connect/issues"
+  },
+  "homepage": "https://github.com/onefit/elasticsearch-kafka-connect#readme"
 }

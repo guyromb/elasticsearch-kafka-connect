@@ -25,4 +25,4 @@ runSinkConnector(config, [], onError).then(config => {
 ```
 
 ## License
-**elasticsearch-kafka-connect** is available under the MIT license. See the [LICENSE](https://github.com/onefit/elasticsearch-kafka-connect/blob/master/LICENSE.md) file for more info.
+**elasticsearch-kafka-connect** is available under the MIT license. See the [LICENSE](https://github.com/onefit/elasticsearch-kafka-connect/blob/master/LICENSE) file for more info.

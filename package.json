@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^7.0.1",
-    "kafka-connect": "~3.7.0"
+    "kafka-connect": "~3.8.0"
   },
   "devDependencies": {},
   "scripts": {

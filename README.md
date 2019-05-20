@@ -1,4 +1,7 @@
 # kafka-elasticsearch-connect
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/onefit/elasticsearch-kafka-connect.svg)](https://greenkeeper.io/)
+
 ElasticSearch Kafka connector, Inspired by Nodefluent
 
 ## Use API

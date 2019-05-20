@@ -1,6 +1,7 @@
 # kafka-elasticsearch-connect
 
-ElasticSearch Kafka connector, Inspired by Nodefluent
+ElasticSearch Kafka connector, always to to sync between ElasticSearch and other data sources (e.g. Compatible with sequelize-kafka-connect).
+Main maintainer: @markoverride
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/onefit/elasticsearch-kafka-connect.svg)](https://greenkeeper.io/) [![Coverage Status](https://coveralls.io/repos/github/onefit/elasticsearch-kafka-connect/badge.svg?branch=master)](https://coveralls.io/github/nodefluent/sequelize-kafka-connect?branch=master)
 
